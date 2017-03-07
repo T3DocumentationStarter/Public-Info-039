@@ -13,12 +13,12 @@
 .. default-role:: code
 .. highlight:: php
 
-.. |img-passed| image::/Images/passed.svg
+.. |img-passed|      image::/Images/passed.svg
 .. :target: https://circleci.com/gh/pixelant/frontend_editing
 .. :border: 0
 .. :align: left
 
-.. |img-typo3-850| image::/Images/TYPO3-8.5.0-orange.svg
+.. |img-typo3-850|      image::/Images/TYPO3-8.5.0-orange.svg
 .. :target:
 .. :border: 0
 .. :align: left
