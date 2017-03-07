@@ -19,8 +19,18 @@
 .. :align: left
 
 .. |img-typo3-850|      image::/Images/TYPO3-8.5.0-orange.svg
-.. :target:
+.. :target: https://typo3.org/
+.. :border: 0
+.. :align: left
+
+.. |img-add-typoscript|      image::/Images/add-typoscript.png
+.. :border: 0
+.. :align: left
+
+.. |img-user-activation-of-feedit|      image::/Images/user-activation-of-feedit.png
 .. :border: 0
 .. :align: left
 
 .. _Ckeditor: http://ckeditor.com/
+
+.. _Gitbook: https://www.gitbook.com/book/pixelant/typo3-frontend-editing/details/

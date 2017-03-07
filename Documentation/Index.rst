@@ -1,25 +1,6 @@
-.. Tip - just do it:
-      don't use TABs (= \t, tabulators)
-      replace each TAB by *three blanks* (enable RegExp for Search and Replace in your IDE)
-      set TAB width and indentation to THREE in your IDE
-      set 'Use blanks instead of TABs' in your IDE
-
-
-.. With the following include we import some definition. We do this in each and every file.
-   so we can change the definition at a single place. Use the relative path to the Includes.txt file,
-   which may look as well like ../../../Includes.txt for a deeply nested source file.
-
 .. include:: Includes.txt
 
-
-.. Usually we define 'php' as default highlight language in Includes.txt.
-   With the following 'highlight' directive we switch to reStructuredText as default highlight language.
-
 .. highlight:: rst
-
-
-.. The following, first section (= headline) is the 'Document Title'.
-
 
 ======================
 TYPO3 Frontend Editing
@@ -37,9 +18,30 @@ This package gives frontend editing capability to TYPO3 CMS, the editor used is 
 Documentation
 -------------
 
-For all kind of documentation which covers install to how to develop the extension:
+For all kind of documentation which covers install to how to develop the extension: Gitbook_
 
-https://www.gitbook.com/book/pixelant/typo3-frontend-editing/details/
+
+
+
+.. Tip - just do it:
+      don't use TABs (= \t, tabulators)
+      replace each TAB by *three blanks* (enable RegExp for Search and Replace in your IDE)
+      set TAB width and indentation to THREE in your IDE
+      set 'Use blanks instead of TABs' in your IDE
+
+
+.. With the following include we import some definition. We do this in each and every file.
+   so we can change the definition at a single place. Use the relative path to the Includes.txt file,
+   which may look as well like ../../../Includes.txt for a deeply nested source file.
+
+
+
+.. Usually we define 'php' as default highlight language in Includes.txt.
+   With the following 'highlight' directive we switch to reStructuredText as default highlight language.
+
+
+
+.. The following, first section (= headline) is the 'Document Title'.
 
 
 .. The following is 'field list' which is rendered as a horizontal table.
@@ -242,7 +244,7 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 .. toctree::
    :hidden:
 
+   Installation/Index
    HelloWorld/Index
    Hyperlinks/Index
    reStructuredText/Index
-
