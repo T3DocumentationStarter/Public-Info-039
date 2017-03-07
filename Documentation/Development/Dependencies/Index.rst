@@ -1,4 +1,4 @@
-.. include:: ../Includes.txt
+.. include:: ../../Includes.txt
 
 .. highlight:: rst
 
@@ -35,4 +35,5 @@ Then install the composer dependencies:
 .. note::
 
    NOTE: On Ubuntu be sure to have php5 and php5-curl installed
+
    When asked for a token, go to to your GitHub account and into Settings->Personal access tokens and click Generate new token, copy-paste the token into the input
