@@ -2,8 +2,9 @@
 
 .. highlight:: rst
 
+===================
 TYPO3 Installation
-------------------
+===================
 
 The following steps are required to active the frontend editing for a TYPO3 installation.
 
@@ -23,6 +24,6 @@ The following steps are required to active the frontend editing for a TYPO3 inst
 
 #. The last thing to do is for the individual users to activate the frontend editing for themselves. This is done in the "User settings" in TYPO3:s backend.
 
-|img-user-activation-of-feedit|
+   |img-user-activation-of-feedit|
 
 You are now ready for some easy editing! :)

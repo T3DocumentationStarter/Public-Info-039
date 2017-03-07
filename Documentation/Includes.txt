@@ -31,6 +31,14 @@
 .. :border: 0
 .. :align: left
 
+.. |img-user-settings|      image:: /Images/user-settings.png
+.. :border: 0
+.. :align: left
+
+.. |img-activate-rightbar-overlay|      image:: /Images/activate-rightbar-overlay.png
+.. :border: 0
+.. :align: left
+
 .. _Ckeditor: http://ckeditor.com/
 
 .. _Gitbook: https://www.gitbook.com/book/pixelant/typo3-frontend-editing/details/

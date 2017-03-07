@@ -245,6 +245,7 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
    :hidden:
 
    Installation/Index
+   InlineEditing/Index
    HelloWorld/Index
    Hyperlinks/Index
    reStructuredText/Index
