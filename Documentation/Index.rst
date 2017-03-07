@@ -22,8 +22,24 @@
 
 
 ======================
-My Public Info Project
+TYPO3 Frontend Editing
 ======================
+
+|img-passed|
+
+|img-typo3-850|
+
+Pixelant frontend editing (frontend_editing)
+--------------------------------------------
+
+This package gives frontend editing capability to TYPO3 CMS, the editor used is Ckeditor_.
+
+Documentation
+-------------
+
+For all kind of documentation which covers install to how to develop the extension:
+
+https://www.gitbook.com/book/pixelant/typo3-frontend-editing/details/
 
 
 .. The following is 'field list' which is rendered as a horizontal table.
